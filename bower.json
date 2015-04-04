@@ -6,7 +6,10 @@
     "Christian Weiss"
   ],
   "description": "Crazy image gallery with included Slimbox",
-  "main": "imagebox.js",
+  "main": [
+    "imagebox.js",
+    "css/slimbox.css"
+  ],
   "keywords": [
     "jquery",
     "plugin",
