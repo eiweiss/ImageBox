@@ -1,0 +1,24 @@
+{
+  "name": "ImageBox",
+  "version": "0.0.1",
+  "homepage": "http://monkeybiz.at/imagebox",
+  "authors": [
+    "Christian Weiss"
+  ],
+  "description": "Crazy image gallery with included Slimbox",
+  "main": "imagebox.js",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "gallery",
+    "lightbox"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
